@@ -1,0 +1,33 @@
+2020-01-17T09:50:23.665Z - info: Website generation started at 5:50:23 PM
+2020-01-17T09:50:23.691Z - info: Building assets...
+2020-01-17T09:50:23.701Z - info: Assets built
+2020-01-17T09:50:23.702Z - info: Generating pages...
+2020-01-17T09:50:23.943Z - info: Pages built
+2020-01-17T09:50:23.992Z - info: Website generation complete! Total build time: 0.348s
+2020-01-17T09:50:24.015Z - info: Serving "/mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_site" at http://127.0.0.1:8080
+2020-01-17T09:50:24.016Z - info: Press CTRL+C to stop ...
+2020-01-17T09:50:24.022Z - info: Site data built
+2020-01-17T09:53:26.957Z - info: Website generation started at 5:53:26 PM
+2020-01-17T09:53:26.981Z - info: Building assets...
+2020-01-17T09:53:26.991Z - info: Assets built
+2020-01-17T09:53:26.991Z - info: Generating pages...
+2020-01-17T09:53:27.228Z - info: Pages built
+2020-01-17T09:53:27.276Z - info: Website generation complete! Total build time: 0.343s
+2020-01-17T09:53:27.299Z - info: Serving "/mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_site" at http://127.0.0.1:8080
+2020-01-17T09:53:27.299Z - info: Press CTRL+C to stop ...
+2020-01-17T09:53:27.306Z - info: Site data built
+2020-01-17T09:53:50.001Z - info: [5:53:50 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-17T09:53:51.004Z - info: Rebuilding affected source files
+2020-01-17T09:53:51.007Z - info: Rebuilding 1 pages
+2020-01-17T09:53:51.102Z - info: Pages rebuilt
+2020-01-17T09:53:51.104Z - info: Site data built
+2020-01-17T09:54:05.286Z - info: [5:54:05 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-17T09:54:06.286Z - info: Rebuilding affected source files
+2020-01-17T09:54:06.286Z - info: Rebuilding 1 pages
+2020-01-17T09:54:06.368Z - info: Pages rebuilt
+2020-01-17T09:54:06.369Z - info: Site data built
+2020-01-17T09:54:17.633Z - info: [5:54:17 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-17T09:54:18.634Z - info: Rebuilding affected source files
+2020-01-17T09:54:18.634Z - info: Rebuilding 1 pages
+2020-01-17T09:54:18.718Z - info: Pages rebuilt
+2020-01-17T09:54:18.719Z - info: Site data built

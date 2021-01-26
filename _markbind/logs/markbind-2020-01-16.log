@@ -1,0 +1,94 @@
+2020-01-16T13:51:28.010Z - info: Website generation started at 9:51:27 PM
+2020-01-16T13:51:28.034Z - info: Building assets...
+2020-01-16T13:51:28.044Z - info: Assets built
+2020-01-16T13:51:28.044Z - info: Generating pages...
+2020-01-16T13:51:28.284Z - info: Pages built
+2020-01-16T13:51:28.327Z - info: Website generation complete! Total build time: 0.33s
+2020-01-16T13:51:28.350Z - info: Serving "/mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_site" at http://127.0.0.1:8080
+2020-01-16T13:51:28.351Z - info: Press CTRL+C to stop ...
+2020-01-16T13:51:28.357Z - info: Site data built
+2020-01-16T13:53:19.679Z - info: [9:53:19 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:53:20.680Z - info: Rebuilding affected source files
+2020-01-16T13:53:20.681Z - info: Rebuilding 1 pages
+2020-01-16T13:53:20.798Z - info: Pages rebuilt
+2020-01-16T13:53:20.799Z - info: Site data built
+2020-01-16T13:53:42.906Z - info: [9:53:42 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:53:43.907Z - info: Rebuilding affected source files
+2020-01-16T13:53:43.908Z - info: Rebuilding 1 pages
+2020-01-16T13:53:43.998Z - info: Pages rebuilt
+2020-01-16T13:53:43.999Z - info: Site data built
+2020-01-16T13:54:02.409Z - info: [9:54:02 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:54:03.410Z - info: Rebuilding affected source files
+2020-01-16T13:54:03.412Z - info: Rebuilding 1 pages
+2020-01-16T13:54:03.504Z - info: Pages rebuilt
+2020-01-16T13:54:03.505Z - info: Site data built
+2020-01-16T13:54:24.247Z - info: [9:54:24 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:54:25.248Z - info: Rebuilding affected source files
+2020-01-16T13:54:25.248Z - info: Rebuilding 1 pages
+2020-01-16T13:54:25.326Z - info: Pages rebuilt
+2020-01-16T13:54:25.327Z - info: Site data built
+2020-01-16T13:54:26.903Z - info: [9:54:26 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:54:27.905Z - info: Rebuilding affected source files
+2020-01-16T13:54:27.905Z - info: Rebuilding 1 pages
+2020-01-16T13:54:27.968Z - info: Pages rebuilt
+2020-01-16T13:54:27.969Z - info: Site data built
+2020-01-16T13:55:39.834Z - info: [9:55:39 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:55:40.835Z - info: Rebuilding affected source files
+2020-01-16T13:55:40.836Z - info: Rebuilding 1 pages
+2020-01-16T13:55:40.926Z - info: Pages rebuilt
+2020-01-16T13:55:40.927Z - info: Site data built
+2020-01-16T13:56:41.071Z - info: [9:56:41 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:56:42.071Z - info: Rebuilding affected source files
+2020-01-16T13:56:42.071Z - info: Rebuilding 1 pages
+2020-01-16T13:56:42.148Z - info: Pages rebuilt
+2020-01-16T13:56:42.149Z - info: Site data built
+2020-01-16T13:57:01.447Z - info: [9:57:01 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:57:02.448Z - info: Rebuilding affected source files
+2020-01-16T13:57:02.448Z - info: Rebuilding 1 pages
+2020-01-16T13:57:02.525Z - info: Pages rebuilt
+2020-01-16T13:57:02.539Z - info: Site data built
+2020-01-16T13:58:30.160Z - info: [9:58:30 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:58:31.161Z - info: Rebuilding affected source files
+2020-01-16T13:58:31.161Z - info: Rebuilding 1 pages
+2020-01-16T13:58:31.262Z - info: Pages rebuilt
+2020-01-16T13:58:31.263Z - info: Site data built
+2020-01-16T13:58:54.767Z - info: [9:58:54 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T13:58:55.768Z - info: Rebuilding affected source files
+2020-01-16T13:58:55.769Z - info: Rebuilding 1 pages
+2020-01-16T13:58:55.853Z - info: Pages rebuilt
+2020-01-16T13:58:55.854Z - info: Site data built
+2020-01-16T14:02:39.451Z - info: [10:02:39 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:02:40.452Z - info: Rebuilding affected source files
+2020-01-16T14:02:40.453Z - info: Rebuilding 1 pages
+2020-01-16T14:02:40.550Z - info: Pages rebuilt
+2020-01-16T14:02:40.551Z - info: Site data built
+2020-01-16T14:07:09.143Z - info: [10:07:09 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:07:10.144Z - info: Rebuilding affected source files
+2020-01-16T14:07:10.144Z - info: Rebuilding 1 pages
+2020-01-16T14:07:10.242Z - info: Pages rebuilt
+2020-01-16T14:07:10.243Z - info: Site data built
+2020-01-16T14:07:37.775Z - info: [10:07:37 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:07:38.776Z - info: Rebuilding affected source files
+2020-01-16T14:07:38.777Z - info: Rebuilding 1 pages
+2020-01-16T14:07:38.858Z - info: Pages rebuilt
+2020-01-16T14:07:38.873Z - info: Site data built
+2020-01-16T14:07:43.150Z - info: [10:07:43 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:07:44.150Z - info: Rebuilding affected source files
+2020-01-16T14:07:44.151Z - info: Rebuilding 1 pages
+2020-01-16T14:07:44.228Z - info: Pages rebuilt
+2020-01-16T14:07:44.229Z - info: Site data built
+2020-01-16T14:08:46.402Z - info: [10:08:46 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:08:47.403Z - info: Rebuilding affected source files
+2020-01-16T14:08:47.403Z - info: Rebuilding 1 pages
+2020-01-16T14:08:47.484Z - info: Pages rebuilt
+2020-01-16T14:08:47.485Z - info: Site data built
+2020-01-16T14:09:51.759Z - info: [10:09:51 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:09:52.760Z - info: Rebuilding affected source files
+2020-01-16T14:09:52.760Z - info: Rebuilding 1 pages
+2020-01-16T14:09:52.858Z - info: Pages rebuilt
+2020-01-16T14:09:52.859Z - info: Site data built
+2020-01-16T14:10:02.397Z - info: [10:10:02 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/index.md
+2020-01-16T14:10:03.398Z - info: Rebuilding affected source files
+2020-01-16T14:10:03.398Z - info: Rebuilding 1 pages
+2020-01-16T14:10:03.493Z - info: Pages rebuilt
+2020-01-16T14:10:03.494Z - info: Site data built

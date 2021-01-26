@@ -1,0 +1,9 @@
+2020-12-06T09:51:27.863Z - info: Website generation started at 5:51:27 PM
+2020-12-06T09:51:27.908Z - info: Building assets...
+2020-12-06T09:51:27.921Z - info: Assets built
+2020-12-06T09:51:27.921Z - info: Generating pages...
+2020-12-06T09:51:28.084Z - info: Pages built
+2020-12-06T09:51:28.152Z - info: Site data built
+2020-12-06T09:51:28.153Z - info: Website generation complete! Total build time: 0.295s
+2020-12-06T09:51:28.168Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\_site" at http://127.0.0.1:8080
+2020-12-06T09:51:28.168Z - info: Press CTRL+C to stop ...

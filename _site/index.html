@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.17.3">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Landing Dump</title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
+  <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.min.css">
+  <script src="markbind/js/polyfill.min.js"></script>
+  <script src="markbind/js/vue.min.js"></script>
+  <script src="markbind/js/markbind.min.js"></script>
+  <script src="markbind/js/jquery.min.js"></script>
+  <link rel="stylesheet" href="/amidumb/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+</head>
+
+<body data-spy="scroll" data-target="#page-nav" data-offset="100">
+  <div id="app">
+    <header>
+      <navbar type="dark" class="temp-navbar">
+        <a slot="brand" href="/amidumb/index.html" title="Home" class="navbar-brand">L</a>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/amidumb/index.html" class="current">Home 🏠</a></div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+      <div id="content-wrapper">
+        <br>
+        <div class="jumbotron jumbotron-fluid bg-dark text-white">
+          <div class="container">
+            <h1 class="display-4 no-index" id="dumb-stuff"><span id="dumb-stuff" class="anchor"></span>Dumb Stuff<a class="fa fa-anchor" href="#dumb-stuff" onclick="event.stopPropagation()"></a></h1>
+            <p class="lead">Silly bugs that I spent MUCH time debugging and hence worth a place here in the hall of LAME</p>
+          </div>
+        </div>
+        <h3 id="writing-files-in-java-but-gave-a-wrong-file-name"><span id="writing-files-in-java-but-gave-a-wrong-file-name" class="anchor"></span>Writing files in Java but gave a wrong file name<a class="fa fa-anchor" href="#writing-files-in-java-but-gave-a-wrong-file-name" onclick="event.stopPropagation()"></a></h3>
+        <ul>
+          <li>Wong code</li>
+        </ul>
+        <pre><code class="hljs java" v-pre><span>Files.write(Paths.get(<span class="hljs-string">&quot;user.dir&quot;</span>,<span class="hljs-string">&quot;data&quot;</span>,<span class="hljs-string">&quot;database.txt&quot;</span>),
+</span><span>    str, StandardOpenOption.TRUNCATE_EXISTING);
+</span></code></pre>
+        <ul>
+          <li>Correct code</li>
+        </ul>
+        <pre><code class="hljs java" v-pre><span>Files.write(Paths.get(System.getProperty(<span class="hljs-string">&quot;user.dir&quot;</span>), <span class="hljs-string">&quot;data&quot;</span>,
+</span><span> <span class="hljs-string">&quot;database.txt&quot;</span>), str, StandardOpenOption.TRUNCATE_EXISTING);
+</span></code></pre>
+        <ul>
+          <li>
+            <p>What I thought</p>
+            <p>Because the error message is about file writing, I thought that the error is
+              with the creating of directory and file. So when I created the new directory
+              and file using the below code, I thought that maybe it does not complete the file creation while the program is still running. Hence this might have caused the error of file not exist yet. This mistake arise also because that I only observe the new folder and file being created when the entire program exits, not right after the execution of the below code.</p>
+          </li>
+        </ul>
+        <pre><code class="hljs java" v-pre><span>            <span class="hljs-keyword">if</span> (Files.notExists(folder)) {
+</span><span>                Files.createDirectories(folder);
+</span><span>            }
+</span><span>            <span class="hljs-keyword">if</span> (Files.notExists(file)) {
+</span><span>                Files.createFile(file);
+</span><span>            }
+</span></code></pre>
+        <ul>
+          <li>
+            <p>What actually happened</p>
+            <p>Instead of getting the current working directory, I wrongly put in the plain string
+              &quot;user.dir&quot; as the directory name.</p>
+          </li>
+          <li>
+            <p>Lesson learned</p>
+            <p>ALWAYS look at the error message properly before going into a witchhunt and trying all
+              sorts of bug fix.</p>
+          </li>
+          <li>
+            <p>Time wasted</p>
+            <p>1.5 hours</p>
+          </li>
+        </ul>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
+      </div>
+      <nav id="page-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
+          <a class="navbar-brand page-nav-title" href="#">Dumb Stuff</a>
+          <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
+            <a class="nav-link py-1" href="#writing-files-in-java-but-gave-a-wrong-file-name">Writing files in Java but gave a wrong file name&#x200E;</a>
+
+          </nav>
+        </div>
+      </nav>
+    </div>
+    <footer>
+
+      <div class="text-center">
+        <small>[Generated by <a href="https://markbind.org/">MarkBind 2.17.3</a>]</small>
+      </div>
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  const baseUrl = '/amidumb'
+  MarkBind.setupWithSearch()
+</script>
+<script src="markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
+
+</html>

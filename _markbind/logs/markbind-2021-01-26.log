@@ -1,0 +1,188 @@
+2021-01-26T02:45:31.065Z - info: Initialization success.
+2021-01-26T02:49:44.698Z - info: Website generation started at 10:49:44 am
+2021-01-26T02:49:44.757Z - info: Building assets...
+2021-01-26T02:49:44.769Z - info: Assets built
+2021-01-26T02:49:44.770Z - info: Generating pages...
+2021-01-26T02:49:44.990Z - info: Pages built
+2021-01-26T02:49:45.111Z - info: Site data built
+2021-01-26T02:49:45.112Z - info: Website generation complete! Total build time: 0.476s
+2021-01-26T02:49:45.136Z - info: Serving "C:\Project\amidumb\_site" at http://127.0.0.1:8080
+2021-01-26T02:49:45.137Z - info: Press CTRL+C to stop ...
+2021-01-26T02:49:59.482Z - info: [10:49:59 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:50:00.495Z - info: Rebuilding 1 pages
+2021-01-26T02:50:00.553Z - info: Site data built
+2021-01-26T02:50:00.554Z - info: Pages rebuilt
+2021-01-26T02:50:00.554Z - info: Website regeneration complete! Total build time: 0.06s
+2021-01-26T02:50:16.915Z - info: [10:50:16 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:50:17.919Z - info: Rebuilding 1 pages
+2021-01-26T02:50:17.959Z - info: Site data built
+2021-01-26T02:50:17.959Z - info: Pages rebuilt
+2021-01-26T02:50:17.960Z - info: Website regeneration complete! Total build time: 0.042s
+2021-01-26T02:50:39.597Z - info: [10:50:39 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:50:40.602Z - info: Rebuilding 1 pages
+2021-01-26T02:50:40.641Z - info: Site data built
+2021-01-26T02:50:40.641Z - info: Pages rebuilt
+2021-01-26T02:50:40.642Z - info: Website regeneration complete! Total build time: 0.04s
+2021-01-26T02:50:42.005Z - info: [10:50:42 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:50:43.017Z - info: Rebuilding 1 pages
+2021-01-26T02:50:43.045Z - info: Site data built
+2021-01-26T02:50:43.046Z - info: Pages rebuilt
+2021-01-26T02:50:43.046Z - info: Website regeneration complete! Total build time: 0.03s
+2021-01-26T02:51:24.318Z - info: [10:51:24 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:51:25.330Z - info: Rebuilding 1 pages
+2021-01-26T02:51:25.362Z - info: Site data built
+2021-01-26T02:51:25.362Z - info: Pages rebuilt
+2021-01-26T02:51:25.363Z - info: Website regeneration complete! Total build time: 0.034s
+2021-01-26T02:51:42.138Z - info: [10:51:42 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:51:43.141Z - info: Rebuilding 1 pages
+2021-01-26T02:51:43.172Z - info: Site data built
+2021-01-26T02:51:43.173Z - info: Pages rebuilt
+2021-01-26T02:51:43.179Z - info: Website regeneration complete! Total build time: 0.034s
+2021-01-26T02:52:15.934Z - info: [10:52:15 am] Reload for file deletion: C:\Project\amidumb\contents\topic1.md
+2021-01-26T02:52:16.944Z - info: Page added or removed, updating list of site's pages...
+2021-01-26T02:52:17.962Z - debug: Assets removed
+2021-01-26T02:52:17.962Z - warn: Rebuilding all pages...
+2021-01-26T02:52:17.962Z - info: Generating pages...
+2021-01-26T02:52:17.979Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:17.981Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\navigation\site-nav.md'
+2021-01-26T02:52:17.992Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:17.995Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\navigation\site-nav.md'
+2021-01-26T02:52:18.019Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:18.020Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\navigation\site-nav.md'
+2021-01-26T02:52:18.031Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:18.034Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\navigation\site-nav.md'
+2021-01-26T02:52:18.069Z - info: Pages built
+2021-01-26T02:52:41.496Z - info: [10:52:41 am] Reload for file change: C:\Project\amidumb\_markbind\navigation\site-nav.md
+2021-01-26T02:52:42.501Z - info: Rebuilding 4 pages
+2021-01-26T02:52:42.511Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:42.520Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:42.527Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:42.558Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:42.581Z - info: Site data built
+2021-01-26T02:52:42.581Z - info: Pages rebuilt
+2021-01-26T02:52:42.581Z - info: Website regeneration complete! Total build time: 0.081s
+2021-01-26T02:52:49.722Z - info: [10:52:49 am] Reload for file change: C:\Project\amidumb\_markbind\navigation\site-nav.md
+2021-01-26T02:52:50.733Z - info: Rebuilding 4 pages
+2021-01-26T02:52:50.742Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:50.750Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:50.766Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:50.771Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/amidumb/contents/topic1.html' found in file 'C:\Project\amidumb\_markbind\headers\header.md'
+2021-01-26T02:52:50.798Z - info: Site data built
+2021-01-26T02:52:50.802Z - info: Pages rebuilt
+2021-01-26T02:52:50.802Z - info: Website regeneration complete! Total build time: 0.07s
+2021-01-26T02:53:13.624Z - info: [10:53:13 am] Reload for file change: C:\Project\amidumb\_markbind\headers\header.md
+2021-01-26T02:53:14.627Z - info: Rebuilding 4 pages
+2021-01-26T02:53:14.681Z - info: Site data built
+2021-01-26T02:53:14.681Z - info: Pages rebuilt
+2021-01-26T02:53:14.681Z - info: Website regeneration complete! Total build time: 0.055s
+2021-01-26T02:53:51.388Z - info: [10:53:51 am] Reload for file change: C:\Project\amidumb\_markbind\headers\header.md
+2021-01-26T02:53:52.396Z - info: Rebuilding 4 pages
+2021-01-26T02:53:52.455Z - info: Site data built
+2021-01-26T02:53:52.455Z - info: Pages rebuilt
+2021-01-26T02:53:52.455Z - info: Website regeneration complete! Total build time: 0.059s
+2021-01-26T02:53:58.279Z - info: [10:53:58 am] Reload for file change: C:\Project\amidumb\_markbind\headers\header.md
+2021-01-26T02:53:59.293Z - info: Rebuilding 4 pages
+2021-01-26T02:53:59.350Z - info: Site data built
+2021-01-26T02:53:59.351Z - info: Pages rebuilt
+2021-01-26T02:53:59.351Z - info: Website regeneration complete! Total build time: 0.059s
+2021-01-26T02:54:03.154Z - info: [10:54:03 am] Reload for file change: C:\Project\amidumb\_markbind\headers\header.md
+2021-01-26T02:54:04.170Z - info: Rebuilding 4 pages
+2021-01-26T02:54:04.222Z - info: Site data built
+2021-01-26T02:54:04.222Z - info: Pages rebuilt
+2021-01-26T02:54:04.222Z - info: Website regeneration complete! Total build time: 0.052s
+2021-01-26T02:54:27.918Z - info: [10:54:27 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:54:28.922Z - info: Rebuilding 1 pages
+2021-01-26T02:54:28.944Z - info: Site data built
+2021-01-26T02:54:28.945Z - info: Pages rebuilt
+2021-01-26T02:54:28.945Z - info: Website regeneration complete! Total build time: 0.023s
+2021-01-26T02:54:44.148Z - info: [10:54:44 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:54:45.154Z - info: Rebuilding 1 pages
+2021-01-26T02:54:45.171Z - info: Site data built
+2021-01-26T02:54:45.171Z - info: Pages rebuilt
+2021-01-26T02:54:45.171Z - info: Website regeneration complete! Total build time: 0.017s
+2021-01-26T02:55:45.076Z - info: [10:55:45 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T02:55:46.086Z - info: Rebuilding 1 pages
+2021-01-26T02:55:46.105Z - info: Site data built
+2021-01-26T02:55:46.105Z - info: Pages rebuilt
+2021-01-26T02:55:46.105Z - info: Website regeneration complete! Total build time: 0.019s
+2021-01-26T03:07:24.694Z - info: [11:07:24 am] Reload for file change: C:\Project\amidumb\site.json
+2021-01-26T03:07:25.704Z - info: Assets built
+2021-01-26T03:07:39.019Z - info: [11:07:39 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:07:40.035Z - info: Rebuilding 1 pages
+2021-01-26T03:07:40.052Z - info: Site data built
+2021-01-26T03:07:40.053Z - info: Pages rebuilt
+2021-01-26T03:07:40.053Z - info: Website regeneration complete! Total build time: 0.019s
+2021-01-26T03:07:47.176Z - info: [11:07:47 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:07:48.179Z - info: Rebuilding 1 pages
+2021-01-26T03:07:48.204Z - info: Site data built
+2021-01-26T03:07:48.204Z - info: Pages rebuilt
+2021-01-26T03:07:48.205Z - info: Website regeneration complete! Total build time: 0.026s
+2021-01-26T03:08:00.631Z - info: [11:08:00 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:08:01.317Z - info: [11:08:01 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:08:01.646Z - info: Rebuilding 1 pages
+2021-01-26T03:08:01.664Z - info: Site data built
+2021-01-26T03:08:01.664Z - info: Pages rebuilt
+2021-01-26T03:08:01.664Z - info: Website regeneration complete! Total build time: 0.019s
+2021-01-26T03:08:10.428Z - info: [11:08:10 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:08:11.442Z - info: Rebuilding 1 pages
+2021-01-26T03:08:11.463Z - info: Site data built
+2021-01-26T03:08:11.464Z - info: Pages rebuilt
+2021-01-26T03:08:11.464Z - info: Website regeneration complete! Total build time: 0.022s
+2021-01-26T03:08:24.149Z - info: [11:08:24 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:08:25.166Z - info: Rebuilding 1 pages
+2021-01-26T03:08:25.187Z - info: Site data built
+2021-01-26T03:08:25.187Z - info: Pages rebuilt
+2021-01-26T03:08:25.187Z - info: Website regeneration complete! Total build time: 0.022s
+2021-01-26T03:12:59.668Z - info: [11:12:59 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:13:00.682Z - info: Rebuilding 1 pages
+2021-01-26T03:13:00.707Z - info: Site data built
+2021-01-26T03:13:00.707Z - info: Pages rebuilt
+2021-01-26T03:13:00.707Z - info: Website regeneration complete! Total build time: 0.025s
+2021-01-26T03:13:30.498Z - info: [11:13:30 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:13:31.512Z - info: Rebuilding 1 pages
+2021-01-26T03:13:31.534Z - info: Site data built
+2021-01-26T03:13:31.535Z - info: Pages rebuilt
+2021-01-26T03:13:31.535Z - info: Website regeneration complete! Total build time: 0.024s
+2021-01-26T03:14:43.350Z - info: [11:14:43 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:14:44.356Z - info: Rebuilding 1 pages
+2021-01-26T03:14:44.383Z - info: Site data built
+2021-01-26T03:14:44.383Z - info: Pages rebuilt
+2021-01-26T03:14:44.383Z - info: Website regeneration complete! Total build time: 0.028s
+2021-01-26T03:16:10.669Z - info: [11:16:10 am] Reload for file change: C:\Project\amidumb\index.md
+2021-01-26T03:16:11.679Z - info: Rebuilding 1 pages
+2021-01-26T03:16:11.701Z - info: Site data built
+2021-01-26T03:16:11.701Z - info: Pages rebuilt
+2021-01-26T03:16:11.701Z - info: Website regeneration complete! Total build time: 0.023s
+2021-01-26T03:16:56.328Z - info: Website generation started at 11:16:56 am
+2021-01-26T03:16:56.373Z - info: Building assets...
+2021-01-26T03:16:56.385Z - info: Assets built
+2021-01-26T03:16:56.386Z - info: Generating pages...
+2021-01-26T03:16:56.554Z - info: Pages built
+2021-01-26T03:16:56.626Z - info: Site data built
+2021-01-26T03:16:56.626Z - info: Website generation complete! Total build time: 0.335s
+2021-01-26T03:16:56.642Z - info: Serving "C:\Project\amidumb\_site" at http://127.0.0.1:8080
+2021-01-26T03:16:56.643Z - info: Press CTRL+C to stop ...
+2021-01-26T03:17:20.422Z - info: Website generation started at 11:17:20 am
+2021-01-26T03:17:20.471Z - info: Building assets...
+2021-01-26T03:17:20.482Z - info: Assets built
+2021-01-26T03:17:20.489Z - info: Generating pages...
+2021-01-26T03:17:20.659Z - info: Pages built
+2021-01-26T03:17:20.730Z - info: Site data built
+2021-01-26T03:17:20.730Z - info: Website generation complete! Total build time: 0.347s
+2021-01-26T03:17:20.730Z - info: Build success!

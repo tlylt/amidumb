@@ -1,0 +1,51 @@
+2020-01-15T08:22:43.415Z - error: uncaughtException: Unexpected token = date=Wed Jan 15 2020 16:22:43 GMT+0800 (+08), pid=27, uid=1000, gid=1000, cwd=/mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /usr/local/bin/markbind, serve], rss=57397248, heapTotal=39333888, heapUsed=22079952, external=110313, loadavg=[0.5185546875, 0.57763671875, 0.5859375], uptime=3
+/mnt/c/Users/Ze Yu/Desktop/markbind/src/lib/markbind/src/parsers/componentParser.js:72
+  rawr = require('../../../../util/delay')(this._assignPanelId, 1000);
+       ^
+
+SyntaxError: Unexpected token =
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/mnt/c/Users/Ze Yu/Desktop/markbind/src/lib/markbind/src/parser.js:10:25)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2020-01-15T08:23:14.918Z - info: Website generation started at 4:23:14 PM
+2020-01-15T08:23:14.946Z - info: Building assets...
+2020-01-15T08:23:14.955Z - info: Assets built
+2020-01-15T08:23:14.955Z - info: Generating pages...
+2020-01-15T08:23:15.196Z - info: Pages built
+2020-01-15T08:23:15.246Z - info: Website generation complete! Total build time: 0.349s
+2020-01-15T08:23:15.270Z - info: Serving "/mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_site" at http://127.0.0.1:8080
+2020-01-15T08:23:15.270Z - info: Press CTRL+C to stop ...
+2020-01-15T08:23:15.276Z - info: Site data built
+2020-01-15T08:23:44.401Z - info: [4:23:44 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_markbind/layouts/default/navigation.md
+2020-01-15T08:23:45.404Z - info: Rebuilding affected source files
+2020-01-15T08:23:45.404Z - info: Rebuilding 0 pages
+2020-01-15T08:23:45.405Z - info: Pages rebuilt
+2020-01-15T08:23:45.406Z - info: Site data built
+2020-01-15T08:23:59.037Z - info: [4:23:59 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_markbind/navigation/site-nav.md
+2020-01-15T08:24:00.039Z - info: Rebuilding affected source files
+2020-01-15T08:24:00.040Z - info: Rebuilding 5 pages
+2020-01-15T08:24:00.187Z - info: Pages rebuilt
+2020-01-15T08:24:00.189Z - info: Site data built
+2020-01-15T08:24:27.535Z - info: [4:24:27 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_markbind/navigation/site-nav.md
+2020-01-15T08:24:28.537Z - info: Rebuilding affected source files
+2020-01-15T08:24:28.538Z - info: Rebuilding 5 pages
+2020-01-15T08:24:28.677Z - info: Pages rebuilt
+2020-01-15T08:24:28.678Z - info: Site data built
+2020-01-15T08:25:25.195Z - info: [4:25:25 PM] Reload for file change: /mnt/c/Users/Ze Yu/Desktop/markbind/src/template/default/_markbind/navigation/site-nav.md
+2020-01-15T08:25:26.197Z - info: Rebuilding affected source files
+2020-01-15T08:25:26.198Z - info: Rebuilding 5 pages
+2020-01-15T08:25:26.335Z - info: Pages rebuilt
+2020-01-15T08:25:26.337Z - info: Site data built
