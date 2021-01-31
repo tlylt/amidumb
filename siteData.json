@@ -23,7 +23,8 @@
       "src": "index.md",
       "title": "Landing Dump",
       "headings": {
-        "writing-files-in-java-but-gave-a-wrong-file-name": "Writing files in Java but gave a wrong file name"
+        "writing-files-in-java-but-gave-a-wrong-file-name": "Writing files in Java but gave a wrong file name",
+        "pointing-to-the-wrong-ip-address-when-adding-a-record-in-domain-dns": "Pointing to the wrong IP address when adding A record in Domain DNS"
       },
       "headingKeywords": {}
     }

@@ -99,6 +99,23 @@
             <p>1.5 hours</p>
           </li>
         </ul>
+        <h3 id="pointing-to-the-wrong-ip-address-when-adding-a-record-in-domain-dns"><span id="pointing-to-the-wrong-ip-address-when-adding-a-record-in-domain-dns" class="anchor"></span>Pointing to the wrong IP address when adding A record in Domain DNS<a class="fa fa-anchor" href="#pointing-to-the-wrong-ip-address-when-adding-a-record-in-domain-dns" onclick="event.stopPropagation()"></a></h3>
+        <ul>
+          <li>What I thought</li>
+        </ul>
+        <p>We used a floating IP provided by DigitalOcean for the server that we are using. I therefore added the floating IP to the DNS record for the intended domain name.</p>
+        <ul>
+          <li>What actually happened</li>
+        </ul>
+        <p>When we were unable to finish the deployment process, we decided to shut down the server and carry on the next day. In the meantime I suggested to remove the floating IP attached as this IP will incure cost if not attached to an instance. So the public IP of the server is the default IP address provided. However, the A record of the DNS, is still pointing to the previous floating IP. There was also an issue of DNS servers, which I should probably continue using the ones from my domain service provider, and not add the ones from DigitalOcean.</p>
+        <ul>
+          <li>Lesson learned</li>
+        </ul>
+        <p>When there are issues of cannot resolve DNS, check either the A record is updated correctly and also the DNS servers are added correctly.</p>
+        <ul>
+          <li>Time wasted</li>
+        </ul>
+        <p>3 hours</p>
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
@@ -106,6 +123,7 @@
           <a class="navbar-brand page-nav-title" href="#">Dumb Stuff</a>
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
             <a class="nav-link py-1" href="#writing-files-in-java-but-gave-a-wrong-file-name">Writing files in Java but gave a wrong file name&#x200E;</a>
+            <a class="nav-link py-1" href="#pointing-to-the-wrong-ip-address-when-adding-a-record-in-domain-dns">Pointing to the wrong IP address when adding A record in Domain DNS&#x200E;</a>
 
           </nav>
         </div>
